@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Esau Samwel
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Cybersecurity
+- CTF player
 - 📫 How to reach me sudosudoerscrack@gmail.com
 
 <!---
