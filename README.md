@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Esau Samwel
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Cybersecurity
-- 💞️ I’m looking to collaborate on web development projects 
 - 📫 How to reach me sudosudoerscrack@gmail.com
 
 <!---
